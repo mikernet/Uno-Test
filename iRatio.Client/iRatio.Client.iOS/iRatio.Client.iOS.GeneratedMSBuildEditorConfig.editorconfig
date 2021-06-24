@@ -1,0 +1,288 @@
+is_global = true
+build_property.TargetPlatformIdentifier = Windows
+build_property.TargetFramework = 
+build_property.ProjectTypeGuidsProperty = {FEACFBD2-3405-455C-9665-78FE426C6842},{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}
+build_property.MSBuildProjectFullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.iOS\iRatio.Client.iOS.csproj
+build_property.RootNamespace = iRatio.Client
+build_property.DefineConstantsProperty = __IOS__,__MOBILE__,__UNIFIED__,
+build_property.Configuration = Release
+build_property.IntermediateOutputPath = obj\iPhone\Release\
+build_property.AndroidApplication = 
+build_property.OutputType = Exe
+build_property.MSBuildProjectName = iRatio.Client.iOS
+build_property.BuildingProject = false
+build_property.DesignTimeBuild = true
+build_property.UseWPF = 
+build_property.IsUnoHead = 
+build_property.UnoRemoteControlPort = 
+build_property.UnoRemoteControlHost = 
+build_property.TSBindingsPath = 
+build_property.UseUnoXamlParser = 
+build_property.UnoSkipUserControlsInVisualTree = 
+build_property.ShouldWriteErrorOnInvalidXaml = 
+build_property.IsUiAutomationMappingEnabled = 
+build_property.ShouldAnnotateGeneratedXaml = 
+build_property.DefaultLanguage = 
+build_property.UnoPlatformTelemetryOptOut = 
+build_property.ExcludeXamlNamespacesProperty = win,android,not_ios
+build_property.IncludeXamlNamespacesProperty = xamarin,not_win,legacy,ios,not_android,not_wasm,not_macos,not_skia,not_netstdref
+build_property.XamlGeneratorAnalyzerSuppressionsProperty = nventive.Usage-NV0056,nventive.Usage-NV0058,nventive.Usage-NV1003,nventive.Usage-NV0085,nventive.Usage-NV2001,nventive.Usage-NV2003,nventive.Usage-NV2004,nventive.Usage-NV2005
+build_property.LegacyTypesProperty = 
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/stylecop.json]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\stylecop.json
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\stylecop.json
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/CategoryRatingControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\CategoryRatingControl.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\CategoryRatingControl.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\CategoryRatingControl.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/LoginControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\LoginControl.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\LoginControl.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\LoginControl.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/StarRatingControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\StarRatingControl.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\StarRatingControl.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\StarRatingControl.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/Styles/CategoryRatingStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\Styles\CategoryRatingStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\Styles\CategoryRatingStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\Styles\CategoryRatingStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/UserInfoControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\UserInfoControl.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\UserInfoControl.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\UserInfoControl.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Dialogs/AddEmployeeDialog.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Dialogs\AddEmployeeDialog.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\AddEmployeeDialog.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\AddEmployeeDialog.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Dialogs/BusinessDialog.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Dialogs\BusinessDialog.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\BusinessDialog.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\BusinessDialog.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Dialogs/PositionDialog.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Dialogs\PositionDialog.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\PositionDialog.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\PositionDialog.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Dialogs/ReviewDialog.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Dialogs\ReviewDialog.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\ReviewDialog.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\ReviewDialog.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Dialogs/Styles/DialogStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Dialogs\Styles\DialogStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\Styles\DialogStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\Styles\DialogStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Dialogs/UpdateUserDialog.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Dialogs\UpdateUserDialog.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\UpdateUserDialog.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Dialogs\UpdateUserDialog.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Icon.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Icon.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Icon.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Icon.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Pages/BusinessPage.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Pages\BusinessPage.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\BusinessPage.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\BusinessPage.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\ProfilePage.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Roots/LoginRoot.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Roots\LoginRoot.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\LoginRoot.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\LoginRoot.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Roots/MainRoot.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Roots\MainRoot.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\MainRoot.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\MainRoot.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Roots/TestRoot.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Roots\TestRoot.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\TestRoot.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\TestRoot.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/ButtonStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\ButtonStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\ButtonStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\ButtonStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/ComboBoxStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\ComboBoxStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\ComboBoxStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\ComboBoxStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/DatePickerStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\DatePickerStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\DatePickerStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\DatePickerStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/DialogStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\DialogStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\DialogStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\DialogStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/PasswordBoxStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\PasswordBoxStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\PasswordBoxStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\PasswordBoxStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/PivotStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\PivotStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\PivotStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\PivotStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Pages/Styles/ProfileStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Pages\Styles\ProfileStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\Styles\ProfileStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\Styles\ProfileStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/TextBoxStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\TextBoxStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\TextBoxStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\TextBoxStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Styles/ToggleButtonStyles.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Styles\ToggleButtonStyles.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\ToggleButtonStyles.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Styles\ToggleButtonStyles.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/App.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = ApplicationDefinition
+build_metadata.AdditionalFiles.Link = App.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\App.xaml
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\App.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Strings/en/Resources.resw]
+build_metadata.AdditionalFiles.SourceItemGroup = PRIResource
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Strings\en\Resources.resw
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Strings\en\Resources.resw
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/Uno.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\Uno.Analyzers.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\Uno.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/CommonServiceLocator.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\CommonServiceLocator.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\CommonServiceLocator.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Microsoft.ApplicationInsights.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.ApplicationInsights.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.ApplicationInsights.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Microsoft.DotNet.PlatformAbstractions.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.DotNet.PlatformAbstractions.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.DotNet.PlatformAbstractions.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Microsoft.Extensions.Logging.Abstractions.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.Extensions.Logging.Abstractions.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.Extensions.Logging.Abstractions.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Microsoft.Extensions.Logging.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.Extensions.Logging.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Microsoft.Extensions.Logging.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Mono.Cecil.Mdb.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.Mdb.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.Mdb.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Mono.Cecil.Pdb.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.Pdb.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.Pdb.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Mono.Cecil.Rocks.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.Rocks.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.Rocks.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Mono.Cecil.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Mono.Cecil.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/System.Diagnostics.DiagnosticSource.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\System.Diagnostics.DiagnosticSource.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\System.Diagnostics.DiagnosticSource.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Uno.Core.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Uno.Core.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Uno.Core.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Uno.UI.SourceGenerators.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Uno.UI.SourceGenerators.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Uno.UI.SourceGenerators.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.5.0-dev.385/analyzers/dotnet/cs/Uno.Xaml.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Uno.Xaml.dll
+build_metadata.AdditionalFiles.Identity = C:\Users\mikem\.nuget\packages\uno.ui\3.5.0-dev.385\analyzers\dotnet\cs\Uno.Xaml.dll

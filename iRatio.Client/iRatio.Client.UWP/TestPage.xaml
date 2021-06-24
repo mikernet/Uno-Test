@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="UnoTest.Client.TestPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UnoTest.Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Resources>
+        <StaticResource x:Key="TextControlBackgroundPointerOver" ResourceKey="SystemControlBackgroundAltMediumBrush"/>
+        <StaticResource x:Key="TextControlBackgroundFocused" ResourceKey="SystemControlBackgroundChromeWhiteBrush"/>
+        <StaticResource x:Key="TextControlBackgroundPointerOver1" ResourceKey="SystemControlBackgroundAltMediumBrush"/>
+        <StaticResource x:Key="TextControlBackgroundFocused1" ResourceKey="SystemControlBackgroundChromeWhiteBrush"/>
+
+
+
+    </Page.Resources>
+
+    <Grid>
+        <ComboBox />
+    </Grid>
+</Page>

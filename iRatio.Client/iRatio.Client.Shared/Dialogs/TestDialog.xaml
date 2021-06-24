@@ -1,0 +1,30 @@
+﻿<ContentDialog
+    x:Class="UnoTest.Client.Dialogs.TestDialog"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="using:System"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="SUBMIT REPORT"
+    PrimaryButtonText="Submit"
+    CloseButtonText="Cancel"
+    PrimaryButtonClick="ContentDialog_PrimaryButtonClick"
+    SecondaryButtonClick="ContentDialog_SecondaryButtonClick"
+    Style="{StaticResource DialogStyle}">
+    <ContentDialog.Resources>
+        <ResourceDictionary Source="Styles/DialogStyles.xaml"/>
+    </ContentDialog.Resources>
+
+    <ScrollViewer>
+        <StackPanel>
+            <StackPanel.Resources>
+                <Style TargetType="TextBlock" BasedOn="{StaticResource ValueHeadingTextBlockStyle}"/>
+            </StackPanel.Resources>
+
+            <Slider x:Name="RatingSlider" Width="180" Value="{x:Bind Data.OverallRating, Mode=TwoWay}" Minimum="1" Maximum="5" StepFrequency="0.5" SnapsTo="StepValues"/>
+            <TextBlock Text="COMMENTS" />
+            <TextBox Text="{x:Bind Data.Comments, Mode=TwoWay}" TextWrapping="Wrap" Height="100" AcceptsReturn="True" />
+            <TextBlock Text="COMMENTS 2" />
+            <TextBox Text="{x:Bind Data.Comments2, Mode=TwoWay}" TextWrapping="Wrap" AcceptsReturn="True" />
+        </StackPanel>
+    </ScrollViewer>
+</ContentDialog>

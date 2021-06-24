@@ -1,0 +1,23 @@
+﻿<UserControl
+    x:Class="UnoTest.Client.Controls.UserInfoControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:iRatio.Client.Controls"
+    xmlns:converters="using:iRatio.Client.Converters"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ios="http://uno.ui/ios"
+    mc:Ignorable="d ios"
+    FontFamily="{StaticResource UIFontFamily}">
+
+    <StackPanel>
+        <StackPanel.Resources>
+            <Style TargetType="TextBlock" BasedOn="{StaticResource ValueHeadingTextBlockStyle}"/>
+        </StackPanel.Resources>
+
+        <TextBlock Text="FIRST NAME"/>
+        <TextBox Text="{x:Bind Data.FirstName, Mode=TwoWay}"/>
+        <TextBlock Text="LAST NAME"/>
+        <TextBox Text="{x:Bind Data.LastName, Mode=TwoWay}"/>
+    </StackPanel>
+</UserControl>

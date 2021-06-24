@@ -1,0 +1,48 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Shared/ActionStyles.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+
+    <SolidColorBrush x:Key="ButtonForegroundPointerOver">White</SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonForegroundPressed">White</SolidColorBrush>
+
+    <SolidColorBrush x:Key="ButtonBackgroundPointerOver">#0064B5</SolidColorBrush>
+    <SolidColorBrush x:Key="ButtonBackgroundPressed">#004985</SolidColorBrush>
+
+    <Style TargetType="Button">
+        <Setter Property="FontSize" Value="17"/>
+        <Setter Property="Foreground" Value="#EEEEEE"/>
+        <Setter Property="Background" Value="#0078D7"/>
+        <Setter Property="CornerRadius" Value="5"/>
+        <Setter Property="BorderBrush" Value="#77FFFFFF"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Padding" Value="14"/>
+    </Style>
+
+    <Style x:Key="ActionButton" TargetType="Button">
+        <Setter Property="Height" Value="43"/>
+        <Setter Property="FontSize" Value="15"/>
+        <Setter Property="Foreground" Value="{StaticResource ActionForeground}"/>
+        <Setter Property="Background" Value="{StaticResource ActionBackground}"/>
+    </Style>
+
+    <Style x:Key="TransparentButtonStyle" TargetType="Button">
+        <Setter Property="Background" Value="Transparent"/>
+        <Setter Property="FontSize" Value="19"/>
+        <Setter Property="FontWeight" Value="Normal"/>
+        <Setter Property="HorizontalAlignment" Value="Stretch"/>
+        <Setter Property="HorizontalContentAlignment" Value="Left"/>
+        <Setter Property="Padding" Value="0,5"/>
+    </Style>
+
+    <Style x:Key="TransparentButtonHeadingStyle" TargetType="TextBlock">
+    </Style>
+
+    <Style x:Key="TransparentButtonSubheadingStyle" TargetType="TextBlock">
+        <Setter Property="FontWeight" Value="Normal"/>
+        <Setter Property="FontSize" Value="13"/>
+        <Setter Property="Foreground" Value="#555555"/>
+    </Style>
+</ResourceDictionary>

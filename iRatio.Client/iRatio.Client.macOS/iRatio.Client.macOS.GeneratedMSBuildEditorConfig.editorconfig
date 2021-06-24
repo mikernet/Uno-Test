@@ -1,0 +1,555 @@
+is_global = true
+build_property.TargetPlatformIdentifier = Windows
+build_property.TargetFramework = 
+build_property.ProjectTypeGuidsProperty = {A3F8F2AB-B479-4A4A-A458-A89E7DC349F1},{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}
+build_property.MSBuildProjectFullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.macOS\iRatio.Client.macOS.csproj
+build_property.RootNamespace = iRatio.Client.macOS
+build_property.DefineConstantsProperty = __UNIFIED__,__MACOS__,DEBUG
+build_property.Configuration = Debug
+build_property.IntermediateOutputPath = obj\iPhoneSimulator\Debug\
+build_property.AndroidApplication = 
+build_property.OutputType = Exe
+build_property.MSBuildProjectName = iRatio.Client.macOS
+build_property.BuildingProject = false
+build_property.DesignTimeBuild = true
+build_property.UseWPF = 
+build_property.IsUnoHead = 
+build_property.UnoRemoteControlPort = 
+build_property.UnoRemoteControlHost = 
+build_property.TSBindingsPath = 
+build_property.UseUnoXamlParser = 
+build_property.UnoSkipUserControlsInVisualTree = 
+build_property.ShouldWriteErrorOnInvalidXaml = 
+build_property.IsUiAutomationMappingEnabled = 
+build_property.ShouldAnnotateGeneratedXaml = 
+build_property.DefaultLanguage = 
+build_property.UnoPlatformTelemetryOptOut = 
+build_property.ExcludeXamlNamespacesProperty = win,not_macos
+build_property.IncludeXamlNamespacesProperty = xamarin,not_win,legacy,macos,not_android,not_wasm,not_ios,not_skia,not_netstdref
+build_property.XamlGeneratorAnalyzerSuppressionsProperty = nventive.Usage-NV0056,nventive.Usage-NV0058,nventive.Usage-NV1003,nventive.Usage-NV0085,nventive.Usage-NV2001,nventive.Usage-NV2003,nventive.Usage-NV2004,nventive.Usage-NV2005
+build_property.LegacyTypesProperty = 
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/stylecop.json]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\stylecop.json
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/LoginControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\LoginControl.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\LoginControl.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/SignUpControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\SignUpControl.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\SignUpControl.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Controls/StarRatingControl.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Controls\StarRatingControl.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Controls\StarRatingControl.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Icon.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Icon.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Icon.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Pages/BusinessPage.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Pages\BusinessPage.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\BusinessPage.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Pages\ProfilePage.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Roots/LoginRoot.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Roots\LoginRoot.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\LoginRoot.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Roots/MainRoot.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = Page
+build_metadata.AdditionalFiles.Link = Roots\MainRoot.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Roots\MainRoot.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/App.xaml]
+build_metadata.AdditionalFiles.SourceItemGroup = ApplicationDefinition
+build_metadata.AdditionalFiles.Link = App.xaml
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\App.xaml
+
+[C:/Users/mikem/Documents/Projects/iRatio/Source/iRatio.Client/iRatio.Client.Shared/Strings/en/Resources.resw]
+build_metadata.AdditionalFiles.SourceItemGroup = PRIResource
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\Documents\Projects\iRatio\Source\iRatio.Client\iRatio.Client.Shared\Strings\en\Resources.resw
+
+[C:/Users/mikem/.nuget/packages/dotnetanalyzers.documentationanalyzers.unstable/1.0.0.59/analyzers/dotnet/cs/CommonMark.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\dotnetanalyzers.documentationanalyzers.unstable\1.0.0.59\analyzers\dotnet\cs\CommonMark.dll
+
+[C:/Users/mikem/.nuget/packages/dotnetanalyzers.documentationanalyzers.unstable/1.0.0.59/analyzers/dotnet/cs/DocumentationAnalyzers.CodeFixes.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\dotnetanalyzers.documentationanalyzers.unstable\1.0.0.59\analyzers\dotnet\cs\DocumentationAnalyzers.CodeFixes.dll
+
+[C:/Users/mikem/.nuget/packages/dotnetanalyzers.documentationanalyzers.unstable/1.0.0.59/analyzers/dotnet/cs/DocumentationAnalyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\dotnetanalyzers.documentationanalyzers.unstable\1.0.0.59\analyzers\dotnet\cs\DocumentationAnalyzers.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/Microsoft.CodeAnalysis.VersionCheckAnalyzer.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\Microsoft.CodeAnalysis.VersionCheckAnalyzer.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/cs/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/de/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\de\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/es/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\es\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/fr/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\fr\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/it/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\it\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/ja/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\ja\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/ko/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\ko\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/pl/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\pl\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/pt-BR/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\pt-BR\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/ru/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\ru\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/tr/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\tr\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/zh-Hans/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\zh-Hans\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codeanalysis.versioncheckanalyzer/3.0.0/analyzers/dotnet/zh-Hant/Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codeanalysis.versioncheckanalyzer\3.0.0\analyzers\dotnet\zh-Hant\Microsoft.CodeAnalysis.VersionCheckAnalyzer.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/Humanizer.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\Humanizer.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/Microsoft.CodeQuality.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\Microsoft.CodeQuality.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/Microsoft.CodeQuality.CSharp.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\Microsoft.CodeQuality.CSharp.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/cs/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\cs\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/de/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\de\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/es/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\es\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/fr/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\fr\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/it/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\it\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/ja/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\ja\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/ko/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\ko\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/pl/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\pl\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/pt-BR/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\pt-BR\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/ru/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\ru\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/tr/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\tr\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/zh-Hans/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\zh-Hans\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.codequality.analyzers/3.0.0/analyzers/dotnet/cs/zh-Hant/Microsoft.CodeQuality.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.codequality.analyzers\3.0.0\analyzers\dotnet\cs\zh-Hant\Microsoft.CodeQuality.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/Microsoft.NetCore.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\Microsoft.NetCore.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/Microsoft.NetCore.CSharp.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\Microsoft.NetCore.CSharp.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/cs/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\cs\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/de/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\de\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/es/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\es\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/fr/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\fr\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/it/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\it\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/ja/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\ja\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/ko/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\ko\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/pl/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\pl\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/pt-BR/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\pt-BR\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/ru/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\ru\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/tr/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\tr\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/zh-Hans/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\zh-Hans\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netcore.analyzers/3.0.0/analyzers/dotnet/cs/zh-Hant/Microsoft.NetCore.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netcore.analyzers\3.0.0\analyzers\dotnet\cs\zh-Hant\Microsoft.NetCore.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/Microsoft.NetFramework.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\Microsoft.NetFramework.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/Microsoft.NetFramework.CSharp.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\Microsoft.NetFramework.CSharp.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/cs/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\cs\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/de/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\de\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/es/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\es\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/fr/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\fr\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/it/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\it\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/ja/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\ja\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/ko/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\ko\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/pl/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\pl\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/pt-BR/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\pt-BR\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/ru/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\ru\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/tr/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\tr\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/zh-Hans/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\zh-Hans\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/microsoft.netframework.analyzers/3.0.0/analyzers/dotnet/cs/zh-Hant/Microsoft.NetFramework.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\microsoft.netframework.analyzers\3.0.0\analyzers\dotnet\cs\zh-Hant\Microsoft.NetFramework.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.CSharp.Analyzers.CodeFixes.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.CSharp.Analyzers.CodeFixes.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.CSharp.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.CSharp.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.CSharp.Workspaces.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.CSharp.Workspaces.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.CSharp.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.CSharp.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.Common.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.Common.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.Core.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.Core.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.Workspaces.Common.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.Workspaces.Common.dll
+
+[C:/Users/mikem/.nuget/packages/roslynator.analyzers/3.0.0-rc/analyzers/dotnet/cs/Roslynator.Workspaces.Core.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\roslynator.analyzers\3.0.0-rc\analyzers\dotnet\cs\Roslynator.Workspaces.Core.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\StyleCop.Analyzers.CodeFixes.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/StyleCop.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\StyleCop.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\de-DE\StyleCop.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\en-GB\StyleCop.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\es-MX\StyleCop.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\fr-FR\StyleCop.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\pl-PL\StyleCop.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\pt-BR\StyleCop.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/stylecop.analyzers.unstable/1.2.0.164/analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\stylecop.analyzers.unstable\1.2.0.164\analyzers\dotnet\cs\ru-RU\StyleCop.Analyzers.resources.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/Uno.Analyzers.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\Uno.Analyzers.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/CommonServiceLocator.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\CommonServiceLocator.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Microsoft.ApplicationInsights.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Microsoft.ApplicationInsights.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Microsoft.DotNet.PlatformAbstractions.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Microsoft.DotNet.PlatformAbstractions.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Microsoft.Extensions.Logging.Abstractions.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Microsoft.Extensions.Logging.Abstractions.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Microsoft.Extensions.Logging.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Microsoft.Extensions.Logging.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Mono.Cecil.Mdb.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Mono.Cecil.Mdb.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Mono.Cecil.Pdb.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Mono.Cecil.Pdb.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Mono.Cecil.Rocks.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Mono.Cecil.Rocks.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Mono.Cecil.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Mono.Cecil.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/System.Diagnostics.DiagnosticSource.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\System.Diagnostics.DiagnosticSource.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Uno.Core.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Uno.Core.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Uno.UI.SourceGenerators.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Uno.UI.SourceGenerators.dll
+
+[C:/Users/mikem/.nuget/packages/uno.ui/3.2.0/analyzers/dotnet/cs/Uno.Xaml.dll]
+build_metadata.AdditionalFiles.SourceItemGroup = Analyzer
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.FullPath = C:\Users\mikem\.nuget\packages\uno.ui\3.2.0\analyzers\dotnet\cs\Uno.Xaml.dll

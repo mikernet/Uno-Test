@@ -1,0 +1,21 @@
+﻿<UserControl
+    x:Class="UnoTest.Client.Icon"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="100"
+    d:DesignWidth="100">
+
+    <Grid>
+        <Viewbox>
+            <Canvas Width="53" Height="53">
+                <Canvas.RenderTransform>
+                    <MatrixTransform Matrix="1.1048446, 0, 0, 1.1959561, -67.035883, -96.098854"/>
+                </Canvas.RenderTransform>
+                <Path Fill="#FFFFFFFF" Data="m 68.170731 85.901237 c 0 0.979987 0 1.959974 0 2.939961 12.706551 0 25.413101 0 38.119649 0 0 -0.979987 0 -1.959974 0 -2.939961 -12.706548 0 -25.413098 0 -38.119649 0 z m 7.338618 6.945895 c -3.655394 6.707615 -7.310983 13.415138 -10.966767 20.122578 7.311334 0 14.622668 0 21.934002 0 -3.655745 -6.70753 -7.311489 -13.415054 -10.967235 -20.122578 z m 6.983146 0.05531 c 3.655746 6.707525 7.311492 13.415048 10.967236 20.122568 3.655782 -6.70743 7.311369 -13.414954 10.966769 -20.122568 -7.311337 0 -14.622671 0 -21.934005 0 z M 62.953718 117.08496 c 0 0.98071 0 1.96141 0 2.94212 12.706551 0 25.413102 0 38.119652 0 0 -0.98071 0 -1.96141 0 -2.94212 -12.70655 0 -25.413101 0 -38.119652 0 z"/>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

@@ -1,0 +1,19 @@
+﻿<UserControl
+    x:Class="UnoTest.Client.Controls.LoginControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:iRatio.Client.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400"
+    FontFamily="{StaticResource UIFontFamily}">
+
+    <StackPanel>
+        <TextBlock Text="EMAIL" Style="{StaticResource ValueHeadingTextBlockStyle}"/>
+        <TextBox Name="EmailBox" IsSpellCheckEnabled="false" InputScope="EmailSmtpAddress"/>
+        <TextBlock Text="PASSWORD" Style="{StaticResource ValueHeadingTextBlockStyle}"/>
+        <PasswordBox Name="PasswordBox"/>
+    </StackPanel>
+</UserControl>
