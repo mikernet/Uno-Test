@@ -38,6 +38,12 @@
                     </Border>
                 </HyperlinkButton>
             </StackPanel>
+
+            <Border Width="100" Height="100" CornerRadius="50" BorderBrush="#BBBBBB" BorderThickness="1" Background="#555555">
+                <Grid>
+                    <Image Source="https://app.iratio.ca/test/test.jpg"/>
+                </Grid>
+            </Border>
         </StackPanel>
 
         <!--<Grid>

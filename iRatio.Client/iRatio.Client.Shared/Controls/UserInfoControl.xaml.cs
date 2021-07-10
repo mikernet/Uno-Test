@@ -26,7 +26,15 @@ namespace UnoTest.Client.Controls
     /// </summary>
     public sealed partial class UserInfoControl : UserControl
     {
-        public UserInfo Data { get; set; }
+        private UserInfo _data;
+
+        public UserInfo Data {
+            get => _data;
+            set {
+                _data = value;
+                DataContext = value;
+            }
+        }
 
         public UserInfoControl()
         {
@@ -39,7 +47,7 @@ namespace UnoTest.Client.Controls
             Validator.TryValidateObject(Data, new ValidationContext(Data), validationResults, true);
 
             if (validationResults.Count > 0) {
-                await new MessageDialog(string.Join("\n", validationResults.Select(v => v.ErrorMessage))).ShowAsync();
+                await new MessageDialog(string.Join("\n", validationResults.Select(v => v.ErrorMessage)) + "\nFN: " + FirstName.Text).ShowAsync();
                 return false;
             }
 

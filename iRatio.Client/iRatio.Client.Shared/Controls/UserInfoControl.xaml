@@ -16,8 +16,10 @@
         </StackPanel.Resources>
 
         <TextBlock Text="FIRST NAME"/>
-        <TextBox Text="{x:Bind Data.FirstName, Mode=TwoWay}"/>
+        <TextBox x:Name="FirstName" Text="{x:Bind Data.FirstName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        <!--<TextBox Text="{Binding FirstName, Mode=TwoWay}"/>-->
         <TextBlock Text="LAST NAME"/>
-        <TextBox Text="{x:Bind Data.LastName, Mode=TwoWay}"/>
+        <TextBox Text="{x:Bind Data.LastName, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        <!--<TextBox Text="{Binding LastName, Mode=TwoWay}"/>-->
     </StackPanel>
 </UserControl>
