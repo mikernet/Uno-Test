@@ -48,9 +48,6 @@ namespace UnoTest.Client.Roots
                 _ = await new MessageDialog("Please enter your email address.").ShowAsync();
                 return;
             }
-
-            var testDialog = new TestDialog(new TestDialogInfo());
-            _ = await testDialog.ShowAsync();
         }
 
         private async void OnSignUpClick(object sender, RoutedEventArgs e)
@@ -59,6 +56,11 @@ namespace UnoTest.Client.Roots
                 return;
 
             await new MessageDialog("Success").ShowAsync();
+        }
+        private async void OnTestDialogClick(object sender, RoutedEventArgs e)
+        {
+            var testDialog = new TestDialog(new TestDialogInfo());
+            _ = await testDialog.ShowAsync();
         }
     }
 }
