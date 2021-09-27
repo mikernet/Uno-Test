@@ -50,6 +50,10 @@ namespace UnoTest.Client.Roots
             }
         }
 
+        private async void OnInvisibleButtonClick(object sender, RoutedEventArgs e)
+        {
+            await new MessageDialog("Invisible button clicked!").ShowAsync();
+        }
         private async void OnSignUpClick(object sender, RoutedEventArgs e)
         {
             if (!await SignUp.ValidateAsync())

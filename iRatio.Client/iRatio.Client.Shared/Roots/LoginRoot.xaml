@@ -46,6 +46,12 @@
                 </Button.Clip>
             </Button>
 
+            <TextBlock Text="Click the invisible button below:"/>
+
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center">
+                <Button Content="I'm invisible" Opacity="0" Click="OnInvisibleButtonClick"/>
+            </Border>
+
             <Button Content="TEST DIALOG" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnTestDialogClick"/>
 
             <Border Width="100" Height="100" CornerRadius="50" BorderBrush="Red" BorderThickness="1" Background="#555555">
@@ -54,7 +60,7 @@
                 </Grid>
             </Border>
 
-            <TextBlock Margin="0,50,0,0" Text="You should be able to see me but scrollviewer cuts off the bottom on WASM in some cases."/>
+            <TextBlock Margin="0,50,0,0" Text="You should be able to see me but scrollviewer cuts me off in WASM sometimes." TextWrapping="Wrap"/>
         </StackPanel>
 
         <!--<Grid>
