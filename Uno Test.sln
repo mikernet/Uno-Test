@@ -7,7 +7,7 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UnoTest.Client.Shared", "iR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnoTest.Client.Droid", "iRatio.Client\iRatio.Client.Droid\UnoTest.Client.Droid.csproj", "{4709BC87-B9A1-417C-B140-2AE20662166E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnoTest.Client.iOS", "iRatio.Client\iRatio.Client.iOS\UnoTest.Client.iOS.csproj", "{CA0DEC79-47FA-4882-8A86-D92BF9E52AF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iRatio.Client.iOS", "iRatio.Client\iRatio.Client.iOS\iRatio.Client.iOS.csproj", "{CA0DEC79-47FA-4882-8A86-D92BF9E52AF1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnoTest.Client.UWP", "iRatio.Client\iRatio.Client.UWP\UnoTest.Client.UWP.csproj", "{11BAF6B3-EB7C-498E-B726-764DE9B9C51F}"
 EndProject

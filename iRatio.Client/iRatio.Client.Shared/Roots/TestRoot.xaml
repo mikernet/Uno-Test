@@ -9,6 +9,6 @@
     xmlns:not_ios="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     Background="White">
 
-    <!-- Does not compile on UWP if you uncomment the line below -->
-    <!--<controls:DateControl not_ios:Opacity="0.5" />-->
+    <!-- Does not compile on WASM if you uncomment the line below -->
+    <!--<controls:DateControl not_ios:UIElement.Opacity="0.5" />-->
 </Page>

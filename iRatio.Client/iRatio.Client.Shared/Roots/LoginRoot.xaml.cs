@@ -18,6 +18,7 @@ using Windows.UI.Xaml.Navigation;
 
 using UnoTest.Client.Data;
 using UnoTest.Client.Dialogs;
+using System.Threading.Tasks;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -32,6 +33,14 @@ namespace UnoTest.Client.Roots
         {
             InitializeComponent();
             SignUp.Data = new UserInfo();
+            Loaded += LoginRoot_Loaded;
+        }
+
+        private async void LoginRoot_Loaded(object sender, RoutedEventArgs e)
+        {
+            App.RootFrame.IsEnabled = false;
+            await Task.Delay(3000);
+            App.RootFrame.IsEnabled = true;
         }
 
         private async void OnLoginClick(object sender, RoutedEventArgs e)

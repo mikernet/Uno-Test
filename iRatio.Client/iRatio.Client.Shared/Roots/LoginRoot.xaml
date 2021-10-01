@@ -13,71 +13,23 @@
     FontSize="16" FontFamily="{StaticResource UIFontFamily}">
 
     <ScrollViewer toolkit:VisibleBoundsPadding.PaddingMask="All">
-
-        <StackPanel MaxWidth="400" Margin="30">
-            <StackPanel Spacing="10">
-                <controls:UserInfoControl x:Name="SignUp" Margin="0,15,0,0"/>
-
-
-                <TextBlock x:Name="SignUpError" Foreground="Red" FontSize="17" HorizontalAlignment="Center" TextWrapping="Wrap" />
-                <Button Content="Sign Up" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnSignUpClick"/>
-            </StackPanel>
-
-            <StackPanel Grid.Row="1" Spacing="10">
-                <controls:LoginControl x:Name="Login" Foreground="#555555" Margin="0,15,0,0"/>
-
-                <CheckBox x:Name="RememberMeBox">
-                    <TextBlock Text="REMEMBER ME" FontSize="16"/>
-                </CheckBox>
-
-                <TextBlock x:Name="LoginError" Foreground="Red" FontSize="17" HorizontalAlignment="Center" TextWrapping="Wrap" />
-                <Button Content="LOGIN" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnLoginClick"/>
-
-                <HyperlinkButton FontSize="18" HorizontalAlignment="Center" Click="OnForgotPasswordClick" Margin="0,20,0,0">
-                    <Border>
-                        <TextBlock Text="I forgot my password"/>
-                    </Border>
-                </HyperlinkButton>
-            </StackPanel>
-
-            <Button Content="Clipped" Width="200" Height="50" HorizontalAlignment="Center">
-                <Button.Clip>
-                    <RectangleGeometry Rect="0 0 100 50"/>
-                </Button.Clip>
-            </Button>
-
-            <TextBlock Text="Click the invisible button below:"/>
-
-            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center">
-                <Button Content="I'm invisible" Opacity="0" Click="OnInvisibleButtonClick"/>
-            </Border>
-
-            <Button Content="TEST DIALOG" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnTestDialogClick"/>
-
-            <Border Width="100" Height="100" CornerRadius="50" BorderBrush="Red" BorderThickness="1" Background="#555555">
-                <Grid>
-                    <Image Source="https://app.iratio.ca/test/test.jpg"/>
-                </Grid>
-            </Border>
-
-            <TextBlock Margin="0,50,0,0" Text="You should be able to see me but scrollviewer cuts me off in WASM sometimes." TextWrapping="Wrap"/>
-        </StackPanel>
-
-        <!--<Grid>
+        <Grid>
             <Grid.RowDefinitions>
-                <RowDefinition Height="*" MinHeight="140" />
                 <RowDefinition Height="Auto"/>
-                <RowDefinition Height="*" />
+                <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
-
-            <Border Background="White">
-                <Image Source="../Assets/Logo-lightbg.png" MaxWidth="180" Margin="20,20,20,20"/>
-            </Border>
-
-            <Border Background="#22FFFFFF" Grid.Row="1" MaxWidth="450" Margin="10,10,10,0">
-                <Pivot Name="MainPivot" Margin="8,8,8,22">
-                    <PivotItem Header="Login">
+            <Pivot MinHeight="500">
+                <PivotItem Header="Main">
+                    <StackPanel MaxWidth="400" Margin="30">
                         <StackPanel Spacing="10">
+                            <controls:UserInfoControl x:Name="SignUp" Margin="0,15,0,0"/>
+
+
+                            <TextBlock x:Name="SignUpError" Foreground="Red" FontSize="17" HorizontalAlignment="Center" TextWrapping="Wrap" />
+                            <Button Content="Sign Up" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnSignUpClick"/>
+                        </StackPanel>
+
+                        <StackPanel Grid.Row="1" Spacing="10">
                             <controls:LoginControl x:Name="Login" Foreground="#555555" Margin="0,15,0,0"/>
 
                             <CheckBox x:Name="RememberMeBox">
@@ -93,19 +45,83 @@
                                 </Border>
                             </HyperlinkButton>
                         </StackPanel>
-                    </PivotItem>
 
-                    <PivotItem Header="Sign Up">
-                        <StackPanel Spacing="10">
-                            <controls:UserInfoControl x:Name="SignUp" Margin="0,15,0,0"/>
+                        <Button Content="Clipped" Width="200" Height="50" HorizontalAlignment="Center">
+                            <Button.Clip>
+                                <RectangleGeometry Rect="0 0 100 50"/>
+                            </Button.Clip>
+                        </Button>
+
+                        <TextBlock Text="Click the invisible button below:"/>
+
+                        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center">
+                            <Button Content="I'm invisible" Opacity="0" Click="OnInvisibleButtonClick"/>
+                        </Border>
+
+                        <Button Content="TEST DIALOG" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnTestDialogClick"/>
+
+                        <Border Width="100" Height="100" CornerRadius="50" BorderBrush="Red" BorderThickness="1" Background="#555555">
+                            <Grid>
+                                <Image Source="https://app.iratio.ca/test/test.jpg"/>
+                            </Grid>
+                        </Border>
+
+                        <TextBlock Margin="0,50,0,0" Text="You should be able to see me but scrollviewer cuts me off in WASM sometimes." TextWrapping="Wrap"/>
+                    </StackPanel>
+                </PivotItem>
+                <PivotItem Header="ScrollViewer Inside">
+                    <ScrollViewer>
+                        <StackPanel MaxWidth="400" Margin="30">
+                            <StackPanel Spacing="10">
+                                <controls:UserInfoControl x:Name="SignUp" Margin="0,15,0,0"/>
 
 
-                            <TextBlock x:Name="SignUpError" Foreground="Red" FontSize="17" HorizontalAlignment="Center" TextWrapping="Wrap" />
-                            <Button Content="Sign Up" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnSignUpClick"/>
+                                <TextBlock x:Name="SignUpError" Foreground="Red" FontSize="17" HorizontalAlignment="Center" TextWrapping="Wrap" />
+                                <Button Content="Sign Up" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnSignUpClick"/>
+                            </StackPanel>
+
+                            <StackPanel Grid.Row="1" Spacing="10">
+                                <controls:LoginControl x:Name="Login" Foreground="#555555" Margin="0,15,0,0"/>
+
+                                <CheckBox x:Name="RememberMeBox">
+                                    <TextBlock Text="REMEMBER ME" FontSize="16"/>
+                                </CheckBox>
+
+                                <TextBlock x:Name="LoginError" Foreground="Red" FontSize="17" HorizontalAlignment="Center" TextWrapping="Wrap" />
+                                <Button Content="LOGIN" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnLoginClick"/>
+
+                                <HyperlinkButton FontSize="18" HorizontalAlignment="Center" Click="OnForgotPasswordClick" Margin="0,20,0,0">
+                                    <Border>
+                                        <TextBlock Text="I forgot my password"/>
+                                    </Border>
+                                </HyperlinkButton>
+                            </StackPanel>
+
+                            <Button Content="Clipped" Width="200" Height="50" HorizontalAlignment="Center">
+                                <Button.Clip>
+                                    <RectangleGeometry Rect="0 0 100 50"/>
+                                </Button.Clip>
+                            </Button>
+
+                            <TextBlock Text="Click the invisible button below:"/>
+
+                            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center">
+                                <Button Content="I'm invisible" Opacity="0" Click="OnInvisibleButtonClick"/>
+                            </Border>
+
+                            <Button Content="TEST DIALOG" MaxWidth="250" HorizontalAlignment="Stretch" Click="OnTestDialogClick"/>
+
+                            <Border Width="100" Height="100" CornerRadius="50" BorderBrush="Red" BorderThickness="1" Background="#555555">
+                                <Grid>
+                                    <Image Source="https://app.iratio.ca/test/test.jpg"/>
+                                </Grid>
+                            </Border>
+
+                            <TextBlock Margin="0,50,0,0" Text="You should be able to see me but scrollviewer cuts me off in WASM sometimes." TextWrapping="Wrap"/>
                         </StackPanel>
-                    </PivotItem>
-                </Pivot>
-            </Border>
-        </Grid>-->
+                    </ScrollViewer>
+                </PivotItem>
+            </Pivot>
+        </Grid>
     </ScrollViewer>
 </Page>
